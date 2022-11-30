@@ -1,0 +1,6 @@
+x= 51
+y= 74
+if x>y:
+   print(x)
+else:
+   Print(y)
